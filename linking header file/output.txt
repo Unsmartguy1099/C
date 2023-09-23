@@ -1,0 +1,2 @@
+Result of addition: 6
+Result of division: 5.000000
